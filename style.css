@@ -139,7 +139,7 @@ header{
 
 
 .about-img img{
-/* border-radius: 3rem 0 3rem 3rem; */
+border-radius: 3rem 0 3rem 3rem;
 border-radius: 48px 0 48px 48px;
 
 }
@@ -392,6 +392,7 @@ font-size: 1.7rem;
     display: flex;
     flex-direction: column;
     row-gap: 1rem;
+    margin-bottom: 1rem;
 }
 
 .login-container h2{
